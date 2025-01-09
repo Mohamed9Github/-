@@ -140,3 +140,23 @@
         h3{
             color: red;
         }
+        .Game1{
+            background-color: white;
+            width: 95%;
+            height: 500px;
+            border-radius: 15px;
+            justify-self: top;
+            align-self: top;
+            margin-top: 10px;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+        }
+        #DNLD{
+            background-color: green;
+            color: black;
+            margin-right: 100px;
+            width: 200px;
+            height: 50px;
+            border-radius: 15px;
+        }
